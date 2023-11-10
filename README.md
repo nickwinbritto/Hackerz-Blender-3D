@@ -2,7 +2,7 @@
 
 ## 🕵️‍♂️ Rendered Video
 
-[![Sample Video](https://github.com/nickwinbritto/Parallex_Effect/assets/115567222/316f959f-b04b-4c2a-b961-132f1835e7f7)](https://youtu.be/KQFHIyUL8kw)
+[![Sample Video](https://github-production-user-asset-6210df.s3.amazonaws.com/115567222/282088201-316f959f-b04b-4c2a-b961-132f1835e7f7.JPEG)](https://youtu.be/KQFHIyUL8kw)
 
 ## ☢️ About the Project ☢️
 
