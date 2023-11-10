@@ -12,6 +12,19 @@
 
 ## 🕵️‍♂️ Rendered Video
 
+![Sample Video](https://github.com/nickwinbritto/Hackerz-Blender-3D/assets/115567222/4fd04943-299c-4b4a-a857-02b026628db6)
 
 ## 👾 Sample Image
 
+![Sample Image](https://github.com/nickwinbritto/Hackerz-Blender-3D/assets/115567222/f60e42f6-8295-4cd0-a2ab-2d19cf5ea8cf)
+
+## 🤖 Tech Stack
+-Blender 3D
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/nickwin-britto-268ab0224" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px">
+  </a>
+</p>
