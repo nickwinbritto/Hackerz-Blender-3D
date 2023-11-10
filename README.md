@@ -4,7 +4,7 @@
 
 [![Sample Video](https://github-production-user-asset-6210df.s3.amazonaws.com/115567222/282088201-316f959f-b04b-4c2a-b961-132f1835e7f7.JPEG)](https://youtu.be/KQFHIyUL8kw)
 
-## ☢️ About the Project ☢️
+## ☢️ About this Project ☢️
 
 - **Introducing the pinnacle of digital craftsmanship**, a testament to innovation and pride – our meticulously crafted 3D model project, the official logo of the Computer Science and Engineering Department for the year 2023 symposium. Created with precision and passion using Blender 3D, this emblem encapsulates the essence of our academic excellence and technological prowess.
 
