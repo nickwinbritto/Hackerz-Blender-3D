@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hackerz-Blender-3D
 
-## About the Project
+## ☢️ About the Project ☢️
 
 - **Introducing the pinnacle of digital craftsmanship**, a testament to innovation and pride – our meticulously crafted 3D model project, the official logo of the Computer Science and Engineering Department for the year 2023 symposium. Created with precision and passion using Blender 3D, this emblem encapsulates the essence of our academic excellence and technological prowess.
 
